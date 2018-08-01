@@ -1,0 +1,13 @@
+Package: com.tutorialrepo.colorcc
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Casp <ihackz9v@gmail.com>
+Filename: /colorcc.deb
+Size: 295779
+MD5sum: 8de0f9c1da7f24b7af76e3acd17f0653
+SHA1: 6d4f5e82ebbabb52cb3c793565f26275f0cece69
+SHA256: ff08b820c19c2ccb6e41c27e7cfb041f0f21e73d321474458cfb23051e02b760
+Section: Tweaks
+Description: Color My CC
+Author: Me <email@gmail.com>
+Name: ColorCC
